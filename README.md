@@ -1,5 +1,4 @@
-# weather
-# 날씨 일기 프로젝트
+# weather (날씨 일기 프로젝트)
 하루의 날씨와 일기를 기록하는 앱
 
 - OpenWeatherMap API 사용
